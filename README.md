@@ -1,4 +1,5 @@
 # elijahjing
-android tv recyclerview中间滚动
+android tv recyclerview中间滚动  可以快速滚动焦点位置始终处于正中间 
+用法与常规layoutManager一样
 
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](https://github.com/elijahjing/elijahjing/blob/master/ezgif-5-0706215fad99.gif)
